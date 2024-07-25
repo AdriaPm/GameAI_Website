@@ -1,7 +1,7 @@
 # GameAI_Exercises
 Info: Game AI Exercises completed for Bachelors in Video Game Design &amp; Development at CITM-UPC. Ran in Unity Engine, with C# scripts with AI logic elements. 
 
-### Website: [GameAI_Exercises](https://rylanjgraham.github.io/GameAI_Exercises/)
+### Website: [GameAI_Exercises](https://adriapm.github.io/GameAI_Website/)
 *View all projects completed on our live website that updates with each project completed here! For ease of access if you would like to check out our most recent projects, and their releases here they are!*
 
 ## Patrolling & Wandering
